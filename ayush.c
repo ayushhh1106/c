@@ -1,4 +1,5 @@
 #include <stdio.h>
+// ayush kumar
 
 int main() {
     int n, i, j, k;
